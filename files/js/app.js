@@ -1,0 +1,6 @@
+
+
+console.log("Live");
+$('#myModal').on('shown.bs.modal', function () {
+  $('#myInput').trigger('focus')
+})
