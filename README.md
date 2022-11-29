@@ -13,6 +13,10 @@ website links :- https://atulmhatre2111.github.io/frtproject/contact.html
 ![Screenshot 2022-10-22 140358](https://user-images.githubusercontent.com/108206935/197329819-333b7189-c9d5-4c5e-9d66-481a14a7a86d.png)
 ![Screenshot 2022-10-22 140441](https://user-images.githubusercontent.com/108206935/197329820-92d58c7d-ea17-4dc0-890c-8ddab748c617.png)
 ![Screenshot 2022-10-22 140515](https://user-images.githubusercontent.com/108206935/197329822-8c4b60b0-9012-4b0b-be27-b2c6eb4d38df.png)
-we have used virtual machine in our project
+
+firstly we use static web app azure
+![Screenshot (4)](https://user-images.githubusercontent.com/108206935/204542101-b22accd0-db87-44d2-a597-2f0df26de942.png)
+
+we have also  used virtual machine in our project 
 ![Screenshot (2)](https://user-images.githubusercontent.com/88397453/204541245-18a45a87-c664-4442-ba7e-41be915da52b.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/88397453/204541276-4085d591-ff04-4e63-a0ea-751a805fe620.png)
