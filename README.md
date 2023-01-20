@@ -3,7 +3,7 @@ this is final frt project.
 collobrator megh212
 website links :- https://atulmhatre2111.github.io/frtproject/contact.html 
 
-#azure link https://delightful-field-06c7d7700.2.azurestaticapps.net
+
 ![Screenshot 2022-10-22 140046](https://user-images.githubusercontent.com/108206935/197329801-5c7e8c1a-0ea5-48de-a740-d750e8c293f9.png)
 ![Screenshot 2022-10-22 140126](https://user-images.githubusercontent.com/108206935/197329802-132bdcf0-7f1a-4389-bc56-b2dfd19934ee.png)
 ![Screenshot 2022-10-22 140153](https://user-images.githubusercontent.com/108206935/197329804-cd671c1c-52d5-42f1-aaeb-6b2179846a50.png)
